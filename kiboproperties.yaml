@@ -1,0 +1,11 @@
+kibo
+  job
+    -
+      name:job1
+      class:jobclass
+    -
+      name:job2
+      class:job2class
+    -
+      name:job3
+      class:job3class
