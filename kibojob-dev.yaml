@@ -1,9 +1,9 @@
 kibo:
   sftp:
-    host:sftp.aws.marketlive.com
-    user:ml_ftp.user
+    host:sftp.aws.marketlive.com;
+    user:ml_ftp.user;
     password:testpass
-  list:
+  job:
     - name:job1;
       clazz:jobclass
     - name:job2;
