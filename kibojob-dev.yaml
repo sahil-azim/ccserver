@@ -1,8 +1,8 @@
 kibo:
   list:
-    - name:job1
+    - name:job1;
       clazz:jobclass
-    - name:job2
+    - name:job2;
       clazz:job2class
-    - name:job3
+    - name:job3;
       clazz:job3class
