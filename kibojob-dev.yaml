@@ -1,5 +1,5 @@
 kibo:
-  job:
+  list:
     - name:job1
       clazz:jobclass
     - name:job2
