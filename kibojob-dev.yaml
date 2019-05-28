@@ -1,4 +1,8 @@
 kibo:
+  sftp:
+    host:sftp.aws.marketlive.com
+    user:ml_ftp.user
+    password:testpass
   list:
     - name:job1;
       clazz:jobclass
